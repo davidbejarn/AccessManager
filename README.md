@@ -25,7 +25,6 @@ Java was chosen for its platform independence, robustness, and wide range of lib
 
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
-3. Run the Main.java file to start the application.
 
 ## Future Enhancements
 
